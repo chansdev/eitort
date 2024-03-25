@@ -18,3 +18,6 @@ Eu sou <strong>Senhor Heuto</strong>, <strong>Na verdade wendy eu ach voce muito
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.youtube.com/watch?v=dQw4w9WgXcQ"/></a>
 
 </div>
+**Contador De Visitas**
+
+![VisitorCount](https://profile-counter.glitch.me/{duduxs}/count.svg)
