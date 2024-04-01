@@ -2,9 +2,9 @@
 
 Eu sou <strong>Senhor Heuto</strong>, <strong>Na verdade wendy eu ach voce muito legal eu posso parecer um nerd fraquinho pra voce mas eu queria muito ser seu amiguinho sabe eu nao tenho muitos amiguinhos na escolaaaa wendyyyyyy</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>maneiras diferentes de morrer sem sentir dor</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>markdown(markdown)</strong> 
 - 💬 Pergunte-me sobre: <strong>malhar, tocar guitarra, jogar volei, desenhar</strong>
-- 📣 Nós podemos falar em: <strong>bostês</strong>
+- 📣 Nós podemos falar em: <strong>português, inglês e gritos</strong>
 
 <div align="center">
 
